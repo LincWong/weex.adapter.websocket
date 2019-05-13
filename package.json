@@ -4,7 +4,7 @@
   "description": "A W3C-compliant webSocket object based on the weex webSocket module",
   "main": "lib/index.js",
   "repository": "https://github.com/LincWong/weex.adapter.websocket.git",
-  "author": "lincwong@foxmail.com",
+  "author": "236241416@qq.com",
   "license": "MIT",
   "dependencies": {
     "event-target": "^1.2.3"
