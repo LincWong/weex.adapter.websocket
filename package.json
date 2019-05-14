@@ -1,8 +1,8 @@
 {
   "name": "weex.adapter.websocket",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A W3C-compliant webSocket object based on the weex webSocket module",
-  "keywords": ["weex", "websocket", "socket.io-client", "socket.io"],
+  "keywords": ["weex", "websocket", "socket.io-client", "engine.io-client", "socket.io"],
   "main": "lib/index.js",
   "repository": "https://github.com/LincWong/weex.adapter.websocket.git",
   "author": "236241416@qq.com",

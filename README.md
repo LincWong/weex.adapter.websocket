@@ -30,6 +30,11 @@ ws.send('hello word')
 - Develop websocket application in weex with W3C standard syntax
 - Make existing libraries compatible with weex by replacing them. Such as socket.io-client
 
+# Some products
+
+- [engine.io-client-weex](https://www.npmjs.com/package/engine.io-client-weex)
+- [socket.io-client-weex](https://www.npmjs.com/package/socket.io-client-weex)
+
 # Reference materials
 - https://github.com/stackOverMind/WeApp-adapter
 - https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket
